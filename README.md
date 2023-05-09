@@ -44,10 +44,10 @@ partida.
 *Saída
 Uma execução do programa proposto deve rodar 300 simulações, imprimindo no console os dados referentes
 às execuções. Esperamos encontrar nos dados as seguintes informações:
-*Quantas partidas terminam por time out (1000 rodadas);
-*Quantos turnos em média demora uma partida;
-*Qual a porcentagem de vitórias por comportamento dos jogadores;
-*Qual o comportamento que mais vence.
+-Quantas partidas terminam por time out (1000 rodadas)
+-Quantos turnos em média demora uma partida
+-Qual a porcentagem de vitórias por comportamento dos jogadores
+-Qual o comportamento que mais vence
 
 Baseado na informação recebida, entende- se que:
 *Propriedades devem ser declaradas conforme o criador definir como adequadas ao jogo, por não haver descrição suficiente para determinar o objeto Propriedade
