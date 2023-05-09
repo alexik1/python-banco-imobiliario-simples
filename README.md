@@ -49,7 +49,7 @@ Uma execução do programa proposto deve rodar 300 simulações, imprimindo no c
 -Qual a porcentagem de vitórias por comportamento dos jogadores  
 -Qual o comportamento que mais vence  
 
-Baseado na informação recebida, entende- se que:
-*Propriedades devem ser declaradas conforme o criador definir como adequadas ao jogo, por não haver descrição suficiente para determinar o objeto Propriedade
-*Médias e percentagem não serão arredondadas
-*Não serão adicionadas bibliotecas ou algo além do nativo de um projeto limpo
+Baseado na informação recebida, entende- se que:  
+*Propriedades devem ser declaradas conforme o criador definir como adequadas ao jogo, por não haver descrição suficiente para determinar o objeto Propriedade  
+*Médias e percentagem não serão arredondadas  
+*Não serão adicionadas bibliotecas ou algo além do nativo de um projeto limpo  
